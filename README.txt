@@ -1,7 +1,10 @@
 Snake Game A1
 By: Steven Zhu
-ID: 20471572
 Class: CS349
+
+To run game:
+make, then
+make run
 
 Game Description:
 Arrow keys to move (up down left right)
