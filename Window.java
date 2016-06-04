@@ -51,7 +51,7 @@ public class Window extends JComponent{
 	splash.append(String.format("<tr><td align='center'>Arrow keys to move (left/right/up/down)</td></tr>"));
 	splash.append(String.format("<tr><td align='center'>s = resume game, p = pause, r = restart</td></tr>"));
 	splash.append(String.format("<tr><td align='center'>Created By: Steven Zhu</td></tr>"));
-	splash.append(String.format("<tr><td align='center'>Id: s36zhu</td></tr>"));
+	splash.append(String.format("<tr><td align='center'>Good luck!</td></tr>"));
 	
 	JLabel description = new JLabel(splash.toString());
 	JPanel TopPanel = new JPanel();
