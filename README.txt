@@ -1,9 +1,7 @@
-Snake Game A1
+Snake Game
 By: Steven Zhu
-Class: CS349
 
-To run game:
-make, then
+To run game, download source code and type in terminal:
 make run
 
 Game Description:
