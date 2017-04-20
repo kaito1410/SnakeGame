@@ -1,6 +1,9 @@
 Snake Game
 By: Steven Zhu
 
+Demo here: 
+https://youtu.be/b7I0bXB3DcQ
+
 To run game, download source code and type in terminal:
 make run
 
